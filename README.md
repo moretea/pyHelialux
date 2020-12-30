@@ -1,4 +1,4 @@
-#pyHelialux
+# pyHelialux
 
 Python library to control (and get information from) Juwel's Helialux Smart Controller.
 
