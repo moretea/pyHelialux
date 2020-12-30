@@ -7,7 +7,7 @@ setup(
     name = 'pyHelialux',
     packages = ['helialux'],
     install_requires=['requests'],
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'A library to communicate with with Juwel\'s HeliaLux Controller',
     long_description=long_description,
     long_description_content_type="text/markdown",

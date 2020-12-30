@@ -59,7 +59,7 @@ class Controller:
             "currentBlue": statusvars["brightness"][1],
             "currentGreen": statusvars["brightness"][2],
             "currentRed": statusvars["brightness"][3],
-            "manualColorSimulationEanbled": statusvars["csimact"] == 1,
+            "manualColorSimulationEnabled": statusvars["csimact"] == 1,
             "manualDaytimeSimulationEnabled": statusvars["tsimact"] == 1,
             "deviceTime": nr_mins_to_formatted(statusvars["tsimtime"]),
         }
